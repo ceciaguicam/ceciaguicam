@@ -2,7 +2,7 @@
 
 ### About me
 
-Hi there! 👋 I'm Ceci. I'm from Spain and I'm studying at University to be a primary teacher🏫. I live in Toledo🏰, an old, beatiful and small city close to Madrid. I have two dogs🐕: Zero (a greyhound) and Roma (a maremma sheepdog). Both of them are really special (I imagine everybody says that about their dogs, though).
+Hi there! :wave: I'm Ceci. I'm from Spain and I'm studying at University to be a primary teacher :school:. I live in Toledo :european_castle:, an old, beatiful and small city close to Madrid. I have two dogs :dog2: : Zero (a greyhound) and Roma (a maremma sheepdog). Both of them are really special (I imagine everybody says that about their dogs, though).
 
 I started teaching educative robotics :robot: and programming :computer: to children and I became interested in the developer world. I've just finished a Web Design Bootcamp based in Javasript and Vue, and I'm starting a new one, this time related with fullstack developing. This GitHub profile is an exercise of this new bootcamp indeed.
 
